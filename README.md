@@ -52,7 +52,7 @@ O gráfico abaixo mostra a separação dos dois clusters após a redução de di
 
 O projeto foi desenvolvido em um ambiente Google Colab. Para executá-lo:
 
-1.  Faça o download do notebook `.ipynb` (não fornecido, mas referenciado no PDF).
+1.  Faça o download do notebook `.ipynb`.
 2.  Abra o Google Colab: [https://colab.research.google.com/](https://colab.research.google.com/)
 3.  Vá em `File > Upload notebook` e selecione o arquivo `.ipynb`.
 4.  Execute as células de código em sequência para reproduzir a análise.
