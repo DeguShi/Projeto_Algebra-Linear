@@ -3,7 +3,7 @@
 Este repositório contém a resolução do trabalho final da disciplina "Álgebra Linear e Aplicações" (sme0142). O projeto foca na aplicação da Decomposição de Valores Singulares (SVD) e do algoritmo de clustering K-means para analisar um dataset de atributos musicais do Spotify, com o objetivo de identificar e visualizar padrões entre diferentes gêneros musicais.
 
 **Autor:** Felipe de Castro Azambuja
-**Data de Entrega:** 10/12/2023
+**Data de Entrega:** 10/12/2024
 
 ## Descrição do Projeto
 
